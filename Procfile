@@ -1,0 +1,1 @@
+web: bundle exec puma -C congif/puma.rb
